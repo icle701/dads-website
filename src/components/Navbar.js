@@ -36,7 +36,7 @@ const NavBar = (props) => {
             <nav role="navigation" className="nav-menu w-nav-menu">
                 <Link to="/" aria-current="page" className={homePageClass}>Home</Link>
                 <Link to="/photos" className={photosPageClass}>Photos</Link>
-                <Link to="/memories" className={memoriesPageClass}>Stories &amp; Memories</Link>
+                <Link to="/memories" className={memoriesPageClass}>Memories</Link>
                 <Link to="/about" className={aboutPageClass}>Facts</Link>
             </nav>
             <div className="w-nav-button">

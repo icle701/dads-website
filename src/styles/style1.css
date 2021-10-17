@@ -1287,6 +1287,8 @@
     max-width: none;
     margin-right: 0px;
     margin-left: 0px;
+
+    grid-row: 2;
   }
 
   .paragraph-4 {

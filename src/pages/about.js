@@ -93,7 +93,7 @@ const AboutPage = () => {
             <div>
                 <h1 class="heading-5">Thank you for loving Peter!</h1>
             </div>
-            <StaticImage src="https://uploads-ssl.webflow.com/61664f74b63c193b0d86ae01/61668f82224296b4247595cf_yan-ming-w1MrSC_JMs8-unsplash.jpg" class="image-6"/>
+            <img src="https://uploads-ssl.webflow.com/61664f74b63c193b0d86ae01/61668f82224296b4247595cf_yan-ming-w1MrSC_JMs8-unsplash.jpg" class="image-6"/>
         </div>
         <div class="footer w-clearfix wf-section">
             <div class="text-block-2">With all of our love to Peter Cleland 1957-2021</div>

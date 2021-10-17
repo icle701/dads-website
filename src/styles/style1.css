@@ -1181,6 +1181,11 @@
 
 @media screen and (max-width: 479px) {
 
+  .w-nav-link {
+    padding:10px
+  }
+
+
   .title {
     display: block;
     margin-top: auto;

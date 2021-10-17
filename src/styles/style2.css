@@ -468,6 +468,7 @@
   background-image: url("https://uploads-ssl.webflow.com/6164fdd6ac33d7fa8b636c9d/616a790ac237263e9f6e893d_Pic2.jpg");
   background-position: 50% 50%;
   background-size: cover;
+  max-width: 80vw;
 }
 
 .timeline-photos.born {
@@ -698,11 +699,13 @@
 
 .image-2 {
   border-radius: 20px;
+  max-width: 80%;
 }
 
 .image-3 {
   height: 250px;
   border-radius: 20px;
+  max-width: 80%;
 }
 
 .image-4 {
@@ -839,6 +842,10 @@
 
 @media screen and (max-width: 479px) {
 
+  .w-nav-link {
+    padding:10px
+  }
+
   .title {
     display: block;
     margin-top: auto;
@@ -861,6 +868,7 @@
     flex: 1;
     font-size: 15px;
     line-height: 30px;
+    margin-bottom: 15px;
   }
 
 

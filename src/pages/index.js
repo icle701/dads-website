@@ -16,7 +16,7 @@ const IndexPage = () => {
         <h1 className="heading-3">Peter Cleland</h1>
         <p className="tag-line lifespan">3/Jan/1957 - 10/Oct/2021</p>
         <p className="tag-line">A man full of life, joy, love, people, and magic tricks</p>
-        <p className="paragraph">Peter David Cleland. Of Remuera, Auckland. Suddenly, on Sunday 10th October 2021, aged 64 years. Eldest son of the late David and Joan Cleland of Palmerston North. Loved husband of Adrienne, proud father of Isaac and Sunny, and Thalia, a special co-optee to the family. Loved brother and brother-in-law of Alan, Barry and the late Marie, Kevin and Anne, Darryl and Trish, Martin and Charlotte, and Joanne and Grant Harris, Mark and Shirley Chrystall, Robert and Margaret Chrystall, Shirley and Brian Lucas, the late Susie, and Martin Pike. Loved uncle of his numerous nieces and nephews whom he often reminded, 'There 's no-one neater than Uncle Peter.' A great friend and constant voice to many.</p>
+        <p className="paragraph">Peter David Cleland. Of Remuera, Auckland. Suddenly, on Sunday 10th October 2021, aged 64 years. Eldest son of the late David and Joan Cleland of Palmerston North. Loved husband of Adrienne, proud father of Isaac and Sunny, and Thalia, a special co-optee to the family, proud god father of Rebecca Wilson. Loved brother and brother-in-law of Alan, Barry and the late Marie, Kevin and Anne, Darryl and Trish, Martin and Charlotte, and Joanne and Grant Harris, Mark and Shirley Chrystall, Robert and Margaret Chrystall, Shirley and Brian Lucas, the late Susie, and Martin Pike. Loved uncle of his numerous nieces and nephews whom he often reminded, 'There 's no-one neater than Uncle Peter.' A great friend and constant voice to many.</p>
       </div>
       <div className="timeline-section wf-section">
         <div className="w-container">
@@ -92,7 +92,7 @@ const IndexPage = () => {
               </div>
               <div className="left-timeline">
                 <p id="w-node-_5a76d6ae-27b4-2f3a-5159-9da61fffdbaa-63636c9e" className="paragraph-3">The Cleland family relocated to Auckland 15 years ago when Adrienne was appointed to a role at the University of Auckland and over this time Peter has pursued a myriad of different business and community interests. Peter has appeared in several TV ads as well as a guest appearance with an odd American accent in Shortland Street. Peter was most recently director and manager of Molesworth Fruit Auckland Limited. On top his myriad of professional and educational achievements, Peter also had a myriad of personal ‘hobbies’, from martial arts to golf, train sets, Apple technology, playing the guitar etc. </p>
-                <StaticImage src="https://uploads-ssl.webflow.com/6164fdd6ac33d7fa8b636c9d/616a7901e8477c65fcc8f18f_20181226_215053.jpg" className="image-3" />
+                <StaticImage src="../images/616a78fb42a4bc357cfc6007_244550642_588375225922623_5543135458870214321_n.jpg" className="image-3" />
               </div>
             </div>
             <div className="timeline-block">
@@ -107,7 +107,7 @@ const IndexPage = () => {
             </div>
             <div className="timeline-block">
               <div className="div-block-4">
-                <p className="paragraph-4 _2021">2021 - In Peace</p>
+                <p className="paragraph-4">2021</p>
                 <div className="white-circle" />
               </div>
               <div className="left-timeline">

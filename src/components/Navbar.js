@@ -1,8 +1,13 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-
 const NavBar = (props) => {
+
+    const [hamburgerOpen, setHamburgerOpen] = React.useState(false);
+
+    const toggleHamburger = () => {
+        setHamburgerOpen(!hamburgerOpen);
+    }
 
     let homePageClass = "nav-item w-nav-link";
     let photosPageClass = "nav-item w-nav-link"
@@ -35,7 +40,7 @@ const NavBar = (props) => {
                 <Link to="/about" className={aboutPageClass}>Facts</Link>
             </nav>
             <div className="w-nav-button">
-                <div className="icon w-icon-nav-menu" />
+                <div className="icon w-icon-nav-menu" onClick={toggleHamburger}/>
             </div>
             </div>
       </div>
